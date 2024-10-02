@@ -1,0 +1,10 @@
+C:\Users\Ucenik\Documents\kategorijevozila\kategorijevozila\bin\Debug\kategorijevozila.exe.config
+C:\Users\Ucenik\Documents\kategorijevozila\kategorijevozila\bin\Debug\kategorijevozila.exe
+C:\Users\Ucenik\Documents\kategorijevozila\kategorijevozila\bin\Debug\kategorijevozila.pdb
+C:\Users\Ucenik\Documents\kategorijevozila\kategorijevozila\obj\Debug\kategorijevozila.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Documents\kategorijevozila\kategorijevozila\obj\Debug\kategorijevozila.Form1.resources
+C:\Users\Ucenik\Documents\kategorijevozila\kategorijevozila\obj\Debug\kategorijevozila.Properties.Resources.resources
+C:\Users\Ucenik\Documents\kategorijevozila\kategorijevozila\obj\Debug\kategorijevozila.csproj.GenerateResource.cache
+C:\Users\Ucenik\Documents\kategorijevozila\kategorijevozila\obj\Debug\kategorijevozila.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Documents\kategorijevozila\kategorijevozila\obj\Debug\kategorijevozila.exe
+C:\Users\Ucenik\Documents\kategorijevozila\kategorijevozila\obj\Debug\kategorijevozila.pdb
